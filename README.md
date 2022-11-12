@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif)](https://github.com/adm0397)
 
-### Hi there 👋
+## Salom mening ismim Dilshodbek
 
 <!--
 **adm0397/adm0397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
