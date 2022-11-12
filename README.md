@@ -3,3 +3,6 @@
 ## Salom mening ismim Dilshodbek
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adm0397&layout=compact)](https://github.com/adm0397)
+
+![Dilshodbek GitHub stats](https://github-readme-stats.vercel.app/api?username=adm0397&show_icons=true&theme=transparent)
+
