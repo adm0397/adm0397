@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/8803765-Good-Vibe/attachments/1014529?mode=media)](https://me.behzodasliddinov.uz)
+[![MasterHead](https://dribbble.com/shots/8803765-Good-Vibe/attachments/1014529?mode=media)](https://github.com/adm0397)
 
 ### Hi there 👋
 
