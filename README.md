@@ -2,6 +2,8 @@
 
 ## Salom, mening ismim Dilshodbek
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=adm0397)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adm0397&layout=compact)](https://github.com/adm0397)
 
 ![Dilshodbek GitHub stats](https://github-readme-stats.vercel.app/api?username=adm0397&show_icons=true&theme=transparent)
